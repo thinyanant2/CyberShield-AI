@@ -16,6 +16,8 @@ The model was evaluated using a Confusion Matrix, showing excellent performance 
 | :--- | :--- |
 | **Accuracy** | 98.64% |
 | **Algorithm** | XGBoost Classifier |
+Precision (Phishing) = 0.98
+F1-score = 0.97
 
 ## 🛠️ Tech Stack
 - **Python** (Core Logic)
